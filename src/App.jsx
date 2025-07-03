@@ -29,7 +29,7 @@ const Header = ({ lang, setLang, scrollTo }) => {
                     <div className="flex items-center space-x-2 cursor-pointer" onClick={() => scrollTo('top')}>
                         <i className="fas fa-brain text-indigo-600 text-2xl"></i>
                         <span className="text-xl font-bold text-gray-800">
-                            <LangText ka="შაკიკი.org" en="Shakiki.org" lang={lang} />
+                            <LangText ka="საქართველოს შაკიკის ასოციაცია" en="Georgian Migraine Association" lang={lang} />
                         </span>
                     </div>
 
