@@ -1,0 +1,134 @@
+{
+  "ka": {
+    "header": {
+      "title": "საქართველოს შაკიკის ასოციაცია",
+      "navLinks": [
+        { "id": "about", "text": "შაკიკის შესახებ" },
+        { "id": "living", "text": "ცხოვრება შაკიკით" },
+        { "id": "news", "text": "სიახლეები" },
+        { "id": "advocacy", "text": "ადვოკატირება" }
+      ],
+      "donate": "დონაცია"
+    },
+    "hero": {
+      "title": "თქვენ მარტო არ ხართ.",
+      "subtitle": "საქართველოს შაკიკის ორგანიზაცია ეხმარება პაციენტებს, აწვდის მათ სანდო ინფორმაციას და იბრძვის უკეთესი ჯანდაცვისთვის.",
+      "findDoctor": "იპოვე ექიმი",
+      "shareStory": "გააზიარე ისტორია"
+    },
+    "about": {
+      "title": "სიმართლე შაკიკის შესახებ",
+      "subtitle": "სანდო ინფორმაცია, რომელიც დაგეხმარებათ უკეთ გაიგოთ თქვენი მდგომარეობა.",
+      "cards": [
+        { "icon": "fa-diagnoses", "title": "რა არის შაკიკი?", "desc": "გაიგეთ მეტი დიაგნოსტიკის კრიტერიუმებისა და სიმპტომების შესახებ." },
+        { "icon": "fa-pills", "title": "მკურნალობის გზები", "desc": "ინფორმაცია მწვავე და პრევენციული მედიკამენტების შესახებ." },
+        { "icon": "fa-apple-alt", "title": "ტრიგერები და ცხოვრების წესი", "desc": "აღმოაჩინეთ, როგორ მართოთ შაკიკი ცხოვრების წესის ცვლილებებით." },
+        { "icon": "fa-head-side-virus", "title": "თავის ტკივილის ტიპები", "desc": "განასხვავეთ შაკიკი, დაძაბულობის და კლასტერული თავის ტკივილი." }
+      ]
+    },
+    "living": {
+        "title": "ცხოვრება შაკიკით",
+        "subtitle": "პრაქტიკული რესურსები და მხარდაჭერა ყოველდღიური ცხოვრებისთვის.",
+        "cards": [
+            { "id": "find-doctor", "img_url": "https://i.imgur.com/rG33YyH.webp", "title": "იპოვე სპეციალისტი", "desc": "მოიძიეთ ნევროლოგები და კლინიკები საქართველოში.", "link": "ძიების დაწყება" },
+            { "id": "diary", "img_url": "https://i.imgur.com/2Y4s23A.webp", "title": "თავის ტკივილის დღიური", "desc": "გადმოწერეთ დღიური, რათა თვალი ადევნოთ შეტევებსა და ტრიგერებს.", "link": "გადმოწერა" },
+            { "id": "stories", "img_url": "https://i.imgur.com/sJ6gD4j.webp", "title": "პაციენტების ისტორიები", "desc": "წაიკითხეთ სხვა პაციენტების გამოცდილება და გააზიარეთ თქვენი.", "link": "წაკითხვა" }
+        ]
+    },
+    "news": {
+        "title": "სიახლეები და კვლევები",
+        "articles": [
+            { "id": "cgrp-inhibitors", "date": "25 ივნ", "title": "ახალი კვლევა CGRP ინჰიბიტორებზე", "content": "ჟურნალ \"Neurology\"-ში გამოქვეყნდა პერსპექტიული შედეგები...", "fullContent": "ეს არის სრული სტატიის შინაარსი CGRP ინჰიბიტორებზე. აქ შეიძლება იყოს ვრცელი ტექსტი, სურათები და სხვა მედია.", "link": "ვრცლად" },
+            { "id": "migraine-awareness-day", "date": "18 ივნ", "title": "შაკიკის მსოფლიო დღე 2024", "content": "ჩვენი ორგანიზაცია გეგმავს საინფორმაციო კამპანიას თბილისში...", "fullContent": "ეს არის სრული სტატიის შინაარსი შაკიკის მსოფლიო დღის შესახებ. აქ შეიძლება იყოს ვრცელი ტექსტი, სურათები და სხვა მედია.", "link": "ვრცლად" }
+        ]
+    },
+    "advocacy": {
+        "title": "ჩვენი ხმა ცვლილებებისთვის",
+        "content": "ჩვენ ვმუშაობთ, რათა შაკიკი აღიარებულ იქნას სერიოზულ ნევროლოგიურ დაავადებად და ყველა პაციენტს ჰქონდეს წვდომა თანამედროვე მკურნალობაზე.",
+        "link": "გაიგეთ მეტი ჩვენს მიზნებზე"
+    },
+    "board": {
+        "title": "ჩვენი გუნდი და მრჩეველები",
+        "subtitle": "ჩვენი კონტენტი შემოწმებულია წამყვანი ქართველი ნევროლოგების მიერ.",
+        "members": [
+            { "name": "ქეთი პაპოშვილი", "title": "ნევროლოგი, ასოციაციის პრეზიდენტი", "img_url": "https://i.imgur.com/fWb2gA8.webp" },
+            { "name": "ირინე ბახუტაშვილი", "title": "რეზიდენტი", "img_url": "https://i.imgur.com/tXg2gA8.webp" },
+            { "name": "Dr. Tamar Gelashvili", "title": "ნევროლოგი", "img_url": "https://i.imgur.com/gWb2gA8.webp" }
+        ]
+    },
+    "footer": {
+        "donateTitle": "გახდი ცვლილების ნაწილი",
+        "donateText": "თქვენი დონაცია გვეხმარება გავაგრძელოთ ჩვენი მისია.",
+        "donateButton": "დონაცია",
+        "subscribeTitle": "გამოიწერეთ სიახლეები",
+        "connectTitle": "დაგვიკავშირდით",
+        "copyright": "საქართველოს შაკიკის ორგანიზაცია (shakiki.org). ყველა უფლება დაცულია."
+    }
+  },
+  "en": {
+    "header": {
+      "title": "Georgian Migraine Association",
+      "navLinks": [
+        { "id": "about", "text": "About Migraine" },
+        { "id": "living", "text": "Living with Migraine" },
+        { "id": "news", "text": "News" },
+        { "id": "advocacy", "text": "Advocacy" }
+      ],
+      "donate": "Donate"
+    },
+    "hero": {
+      "title": "You are not alone.",
+      "subtitle": "The Georgian Migraine Organization empowers patients, provides trusted information, and advocates for better healthcare.",
+      "findDoctor": "Find a Doctor",
+      "shareStory": "Share Your Story"
+    },
+    "about": {
+      "title": "Understanding Migraine",
+      "subtitle": "Trusted information to help you understand your condition.",
+      "cards": [
+        { "icon": "fa-diagnoses", "title": "What is Migraine?", "desc": "Learn about diagnostic criteria and symptoms." },
+        { "icon": "fa-pills", "title": "Treatment Options", "desc": "Information on acute and preventive medications." },
+        { "icon": "fa-apple-alt", "title": "Triggers & Lifestyle", "desc": "Discover how lifestyle changes can help manage migraine." },
+        { "icon": "fa-head-side-virus", "title": "Types of Headache", "desc": "Differentiate migraine, tension, and cluster headaches." }
+      ]
+    },
+    "living": {
+        "title": "Living with Migraine",
+        "subtitle": "Practical resources and support for your daily life.",
+        "cards": [
+            { "id": "find-doctor", "img_url": "https://i.imgur.com/rG33YyH.webp", "title": "Find a Specialist", "desc": "Search for neurologists and clinics in Georgia.", "link": "Start Search" },
+            { "id": "diary", "img_url": "https://i.imgur.com/2Y4s23A.webp", "title": "Headache Diary", "desc": "Download a diary to track your attacks and triggers.", "link": "Download Now" },
+            { "id": "stories", "img_url": "https://i.imgur.com/sJ6gD4j.webp", "title": "Patient Stories", "desc": "Read experiences from other patients and share yours.", "link": "Read Stories" }
+        ]
+    },
+    "news": {
+        "title": "News & Research",
+        "articles": [
+            { "id": "cgrp-inhibitors", "date": "JUN 25", "title": "New Research on CGRP Inhibitors", "content": "Promising results published in the journal \"Neurology\"...", "fullContent": "This is the full article content about CGRP Inhibitors. This can include extensive text, images, and other media.", "link": "Read More" },
+            { "id": "migraine-awareness-day", "date": "JUN 18", "title": "Migraine Awareness Day 2024", "content": "Our organization is planning an awareness campaign in Tbilisi...", "fullContent": "This is the full article content about Migraine Awareness Day. This can include extensive text, images, and other media.", "link": "Learn More" }
+        ]
+    },
+    "advocacy": {
+        "title": "Our Voice for Change",
+        "content": "We advocate for migraine to be recognized as a serious neurological disease and for all patients to have access to modern treatments.",
+        "link": "Learn About Our Goals"
+    },
+    "board": {
+        "title": "Our Team & Advisors",
+        "subtitle": "Our content is reviewed by leading Georgian neurologists.",
+        "members": [
+            { "name": "Dr. Keti Paposhvili", "title": "Neurologist, President of the Association", "img_url": "https://i.imgur.com/fWb2gA8.webp" },
+            { "name": "Dr. Irine Bakhutashvili", "title": "Resident Doctor", "img_url": "https://i.imgur.com/tXg2gA8.webp" },
+            { "name": "Dr. Tamar Gelashvili", "title": "Neurologist", "img_url": "https://i.imgur.com/gWb2gA8.webp" }
+        ]
+    },
+    "footer": {
+        "donateTitle": "Be Part of the Change",
+        "donateText": "Your donation helps us continue our mission.",
+        "donateButton": "Donate Now",
+        "subscribeTitle": "Subscribe to our Newsletter",
+        "connectTitle": "Connect With Us",
+        "copyright": "Georgian Migraine Organization (shakiki.org). All rights reserved."
+    }
+  }
+}
