@@ -1,7 +1,7 @@
 {
   "ka": {
     "header": {
-      "title": "საქართველოს შაკიკის ასოციაცია",
+      "title": "პაციენტთა შაკიკისა და თავის ტკივილის ასოციაცია",
       "navLinks": [
         { "id": "about", "text": "შაკიკის შესახებ" },
         { "id": "living", "text": "ცხოვრება შაკიკით" },
@@ -12,7 +12,7 @@
     },
     "hero": {
       "title": "თქვენ მარტო არ ხართ.",
-      "subtitle": "საქართველოს შაკიკის ორგანიზაცია ეხმარება პაციენტებს, აწვდის მათ სანდო ინფორმაციას და იბრძვის უკეთესი ჯანდაცვისთვის.",
+      "subtitle": "საქართველოს პაციენტთა შაკიკისა და თავის ტკივილის ასოციაცია ეხმარება პაციენტებს, აწვდის მათ სანდო ინფორმაციას და იბრძვის უკეთესი ჯანდაცვისთვის.",
       "findDoctor": "იპოვე ექიმი",
       "shareStory": "გააზიარე ისტორია"
     },
@@ -39,22 +39,38 @@
         "title": "სიახლეები და კვლევები",
         "articles": [
             { "id": "cgrp-inhibitors", "date": "25 ივნ", "title": "ახალი კვლევა CGRP ინჰიბიტორებზე", "content": "ჟურნალ \"Neurology\"-ში გამოქვეყნდა პერსპექტიული შედეგები...", "fullContent": "ეს არის სრული სტატიის შინაარსი CGRP ინჰიბიტორებზე. აქ შეიძლება იყოს ვრცელი ტექსტი, სურათები და სხვა მედია.", "link": "ვრცლად" },
-            { "id": "migraine-awareness-day", "date": "18 ივნ", "title": "შაკიკის მსოფლიო დღე 2024", "content": "ჩვენი ორგანიზაცია გეგმავს საინფორმაციო კამპანიას თბილისში...", "fullContent": "ეს არის სრული სტატიის შინაარსი შაკიკის მსოფლიო დღის შესახებ. აქ შეიძლება იყოს ვრცელი ტექსტი, სურათები და სხვა მედია.", "link": "ვრცლად" }
+            { "id": "migraine-awareness-day", "date": "18 ივნ", "title": "შაკიკის მსოფლიო დღე 2025", "content": "ჩვენი ორგანიზაცია გეგმავს საინფორმაციო კამპანიას თბილისში...", "fullContent": "ეს არის სრული სტატიის შინაარსი შაკიკის მსოფლიო დღის შესახებ. აქ შეიძლება იყოს ვრცელი ტექსტი, სურათები და სხვა მედია.", "link": "ვრცლად" }
         ]
     },
     "advocacy": {
         "title": "ჩვენი ხმა ცვლილებებისთვის",
         "content": "ჩვენ ვმუშაობთ, რათა შაკიკი აღიარებულ იქნას სერიოზულ ნევროლოგიურ დაავადებად და ყველა პაციენტს ჰქონდეს წვდომა თანამედროვე მკურნალობაზე.",
-        "link": "გაიგეთ მეტი ჩვენს მიზნებზე"
+        "link": "გაიგეთ მეტი ჩვენს მიზნებზე",
+        "advocacyGoals": [
+            {
+                "title": "შაკიკის აღიარება სერიოზულ დაავადებად",
+                "description": "ჩვენ ვმუშაობთ იმისთვის, რომ შაკიკი აღიარებულ იქნას კანონით სერიოზულ ნევროლოგიურ დაავადებად საქართველოში."
+            },
+            {
+                "title": "თანამედროვე მკურნალობაზე წვდომა",
+                "description": "ყველა პაციენტს უნდა ჰქონდეს წვდომა CGRP ინჰიბიტორებზე და სხვა თანამედროვე მკურნალობის მეთოდებზე."
+            },
+            {
+                "title": "სამედიცინო განათლება",
+                "description": "ექიმების განათლება შაკიკის თანამედროვე დიაგნოსტიკისა და მკურნალობის მეთოდებზე."
+            },
+            {
+                "title": "საზოგადოების ცნობიერების ამაღლება",
+                "description": "შაკიკის შესახებ მცდარი წარმოდგენების გაქარწყლება და სტიგმის აღმოფხვრა."
+            }
+        ]
     },
     "board": {
         "title": "ჩვენი გუნდი და მრჩეველები",
         "subtitle": "ჩვენი კონტენტი შემოწმებულია წამყვანი ქართველი ნევროლოგების მიერ.",
         "members": [
             { "name": "ქეთი პაპოშვილი", "title": "ნევროლოგი, ასოციაციის პრეზიდენტი", "img_url": "https://i.imgur.com/fWb2gA8.webp" },
-            { "name": "ირინე ბახუტაშვილი", "title": "რეზიდენტი", "img_url": "https://i.imgur.com/tXg2gA8.webp" },
-            { "name": "Dr. Tamar Gelashvili", "title": "ნევროლოგი", "img_url": "https://i.imgur.com/gWb2gA8.webp" }
-        ]
+            { "name": "ირინე ბახუტაშვილი", "title": "რეზიდენტი", "img_url": "https://i.imgur.com/tXg2gA8.webp" }        ]
     },
     "footer": {
         "donateTitle": "გახდი ცვლილების ნაწილი",
@@ -67,7 +83,7 @@
   },
   "en": {
     "header": {
-      "title": "Georgian Migraine Association",
+      "title": "Patient Migraine and Headache Association",
       "navLinks": [
         { "id": "about", "text": "About Migraine" },
         { "id": "living", "text": "Living with Migraine" },
@@ -78,7 +94,7 @@
     },
     "hero": {
       "title": "You are not alone.",
-      "subtitle": "The Georgian Migraine Organization empowers patients, provides trusted information, and advocates for better healthcare.",
+      "subtitle": "The Georgian Patient Migraine and Headache Association empowers patients, provides trusted information, and advocates for better healthcare.",
       "findDoctor": "Find a Doctor",
       "shareStory": "Share Your Story"
     },
@@ -104,14 +120,32 @@
     "news": {
         "title": "News & Research",
         "articles": [
-            { "id": "cgrp-inhibitors", "date": "JUN 25", "title": "New Research on CGRP Inhibitors", "content": "Promising results published in the journal \"Neurology\"...", "fullContent": "This is the full article content about CGRP Inhibitors. This can include extensive text, images, and other media.", "link": "Read More" },
-            { "id": "migraine-awareness-day", "date": "JUN 18", "title": "Migraine Awareness Day 2024", "content": "Our organization is planning an awareness campaign in Tbilisi...", "fullContent": "This is the full article content about Migraine Awareness Day. This can include extensive text, images, and other media.", "link": "Learn More" }
+            { "id": "cgrp-inhibitors", "date": "JUN 25", "title": "New Research on CGRP Inhibitors", "content": "Promising results published in the journal \"Neurology\".", "fullContent": "This is the full article content about CGRP Inhibitors. This can include extensive text, images, and other media.", "link": "Read More" },
+            { "id": "migraine-awareness-day", "date": "JUN 18", "title": "Migraine Awareness Day 2024", "content": "Our organization is planning an awareness campaign in Tbilisi.", "fullContent": "This is the full article content about Migraine Awareness Day. This can include extensive text, images, and other media.", "link": "Learn More" }
         ]
     },
     "advocacy": {
         "title": "Our Voice for Change",
         "content": "We advocate for migraine to be recognized as a serious neurological disease and for all patients to have access to modern treatments.",
-        "link": "Learn About Our Goals"
+        "link": "Learn About Our Goals",
+        "advocacyGoals": [
+            {
+                "title": "Recognition as a Serious Disease",
+                "description": "We work to have migraine legally recognized as a serious neurological disease in Georgia."
+            },
+            {
+                "title": "Access to Modern Treatment", 
+                "description": "All patients should have access to CGRP inhibitors and other modern treatment methods."
+            },
+            {
+                "title": "Medical Education",
+                "description": "Educating doctors about modern migraine diagnostic and treatment methods."
+            },
+            {
+                "title": "Public Awareness",
+                "description": "Dispelling misconceptions about migraine and eliminating stigma."
+            }
+        ]
     },
     "board": {
         "title": "Our Team & Advisors",
@@ -124,7 +158,7 @@
     },
     "footer": {
         "donateTitle": "Be Part of the Change",
-        "donateText": "Your donation helps us continue our mission.",
+        "donateText": "Yr donation helps us continue our mission.",
         "donateButton": "Donate Now",
         "subscribeTitle": "Subscribe to our Newsletter",
         "connectTitle": "Connect With Us",
